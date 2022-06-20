@@ -23,4 +23,4 @@ Egresé del Bootcamp como Desarrollador de Aplicaciones Front End usando el stac
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmongez/)](https://www.linkedin.com/in/cmongez/)
 
 ## Visita mi portafolio:
-<a href="https://cmongez.github.io/portafolio/" target="_blank">https://cmongez.github.io/portafolio/<a/>
+<a href="https://cmongez.github.io/portafolio/" target="_blank">https://cmongez.github.io/portafolio/</a>
