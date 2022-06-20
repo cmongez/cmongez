@@ -1,6 +1,6 @@
 ### Console.log('Hola mundo👋 I am:')
 
-<img src="https://s8.gifyu.com/images/cesar_mongez_gif_github.gif" width="100%" alt="Todos estamos (o estaremos) en Twitch - Codemotion"/>
+<img src="https://s8.gifyu.com/images/Cesar-Mongez.gif" width="100%" alt="Todos estamos (o estaremos) en Twitch - Codemotion"/>
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
