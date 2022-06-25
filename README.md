@@ -18,7 +18,7 @@ Egresé del Bootcamp como Desarrollador de Aplicaciones Front End usando el stac
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-flat&logo=visual%20studio%20code&logoColor=white)
-Scrum
+[Scrum.png](https://postimg.cc/gxF3DVSk)
 
 
 ## Me puedes encontrar en:
