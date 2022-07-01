@@ -1,4 +1,4 @@
-### Console.log('Hello world!👋 I am: ')
+### Console.log('Hello world!👋 I am:')
 
 <img src="https://s8.gifyu.com/images/cmongez2.gif" width="100%" />
 
