@@ -28,4 +28,5 @@ Metodologia ágil Scrum
 <a href="https://cmongez.github.io/portafolio/" target="_blank">https://cmongez.github.io/portafolio/</a>
 
 ##### Vistas en mi perfil de GitHub hasta ahora:
+
 ![VisitorCount](https://profile-counter.glitch.me/cmongez/count.svg)
