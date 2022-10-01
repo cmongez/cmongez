@@ -15,6 +15,8 @@ Egresé del Bootcamp como Desarrollador de Aplicaciones Front End usando el stac
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-flat&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=vue.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=vue.js&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-flat&logo=visual%20studio%20code&logoColor=white) 
