@@ -63,10 +63,12 @@ Formación intensiva y desarrollo en **Java/Spring Boot**, implementando segurid
   <a href="https://www.linkedin.com/in/cmongez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="mailto:camongez28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://cmongez.github.io/portafolio/">
+
+  <a href="https://cmongez.github.io/portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
   </a>
 </p>
